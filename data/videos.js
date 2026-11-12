@@ -461,8 +461,8 @@ window.FILROCK_VIDEOS = [
  },
  {
   "id": "c780d7_566295110510410caccade7a0d5effee",
-  "title": "All My Love",
-  "artist": "",
+  "title": "And I Love Her",
+  "artist": "The Beatles (Paul McCartney)",
   "lang": "en",
   "venue": "Loft Sessions",
   "city": "Hoboken, NJ",
