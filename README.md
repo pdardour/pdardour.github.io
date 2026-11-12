@@ -1,7 +1,8 @@
 # filrock.com
 
 Fil's website — French chansons and classic rock, live in South Florida.
-It is a plain HTML site hosted for free on GitHub Pages.
+It is a plain HTML site hosted for free on GitHub Pages, at https://filrock.com.
+Do not delete the CNAME file: it tells GitHub to use the filrock.com address.
 
 ## What is where
 
