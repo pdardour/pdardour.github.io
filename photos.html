@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en" data-lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Photos — Fil</title>
+<meta name="description" content="Photos of Fil on stage, with friends and fellow musicians, his guitars, and his early days in France.">
+<meta name="theme-color" content="#2a0913">
+<link rel="icon" href="favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;700;800;900&family=Instrument+Sans:wght@400;500;600;700&family=Permanent+Marker&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/site.css">
+</head>
+<body>
+<a class="skip" href="#main"><span data-l="en">Skip to content</span><span data-l="fr">Aller au contenu</span></a>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="./" aria-label="Fil, home">
+      <img src="assets/img/logo-face-white.png" alt="" width="30" height="51">
+      <span class="wordmark">FIL</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Main">
+      <a href="videos.html"><span data-l="en">Videos</span><span data-l="fr">Vidéos</span></a>
+      <a href="photos.html" aria-current="page">Photos</a>
+      <a href="./#songs"><span data-l="en">Songs</span><span data-l="fr">Chansons</span></a>
+      <a href="./#shows"><span data-l="en">Shows</span><span data-l="fr">Concerts</span></a>
+      <a href="./#about"><span data-l="en">About</span><span data-l="fr">Biographie</span></a>
+    </nav>
+    <button class="lang" type="button">EN / FR</button>
+    <a class="btn btn-spot" href="./#book"><span data-l="en">Book Fil</span><span data-l="fr">Réserver Fil</span></a>
+    <button class="menu-btn" type="button" aria-controls="nav" aria-expanded="false" data-en="Open menu" data-fr="Ouvrir le menu"><span></span><span></span><span></span></button>
+  </div>
+</header>
+
+<main id="main">
+  <section class="page-head">
+    <div class="wrap">
+      <h1>Photos</h1>
+      <p><span data-l="en">On stage, with friends, the guitars, and the early days in France. Tap a photo to see it larger.</span><span data-l="fr">Sur scène, entre amis, les guitares, et les débuts en France. Touchez une photo pour l'agrandir.</span></p>
+    </div>
+  </section>
+  <section class="section" style="padding-top:1rem">
+    <div class="wrap">
+      <div class="tabs chips" role="group" data-en="Choose a gallery" data-fr="Choisir une galerie">
+        <button class="chip" type="button" data-group="stage" aria-pressed="true"><span data-l="en">On stage</span><span data-l="fr">Sur scène</span></button>
+        <button class="chip" type="button" data-group="friends" aria-pressed="false"><span data-l="en">Fans, friends & family</span><span data-l="fr">Fans, amis et famille</span></button>
+        <button class="chip" type="button" data-group="gear" aria-pressed="false"><span data-l="en">The guitars</span><span data-l="fr">Les guitares</span></button>
+        <button class="chip" type="button" data-group="early" aria-pressed="false"><span data-l="en">Early days</span><span data-l="fr">Les débuts</span></button>
+        <button class="chip" type="button" data-group="posters" aria-pressed="false"><span data-l="en">Show posters</span><span data-l="fr">Affiches</span></button>
+        <button class="chip" type="button" data-group="archive" aria-pressed="false"><span data-l="en">More</span><span data-l="fr">Plus</span></button>
+      </div>
+      <div class="pgrid" data-photos="stage"></div>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <div class="foot-brand"><img src="assets/img/logo-face-white.png" alt="" width="40" height="68"><span class="wordmark">FIL</span></div>
+    <div class="foot-links">
+      <a href="mailto:fil@filrock.com">fil@filrock.com</a>
+      <a href="https://www.instagram.com/fil_rock/" target="_blank" rel="noopener">Instagram</a>
+      <a href="https://www.facebook.com/profile.php?id=61576345754601" target="_blank" rel="noopener">Facebook</a>
+      <a href="https://www.youtube.com/channel/UCHNv5Xm1f1UCHBAdo7U0K4A" target="_blank" rel="noopener">YouTube</a>
+      <a href="videos.html"><span data-l="en">Videos</span><span data-l="fr">Vidéos</span></a>
+      <a href="photos.html">Photos</a>
+    </div>
+    <p class="foot-small">© <span data-year>2026</span> Fil. <span data-l="en">Photo credits appear with each photo.</span><span data-l="fr">Les crédits photo sont indiqués avec chaque photo.</span></p>
+  </div>
+</footer>
+
+<dialog id="viewer" aria-label="Photo">
+  <button class="dlg-close" type="button" aria-label="Close">×</button>
+  <button class="dlg-nav dlg-prev" type="button" aria-label="Previous photo">‹</button>
+  <button class="dlg-nav dlg-next" type="button" aria-label="Next photo">›</button>
+  <div class="dlg"><div class="dlg-media"></div><div class="dlg-cap"></div></div>
+</dialog>
+
+<script src="data/photos.js"></script>
+<script src="data/shows.js"></script>
+<script src="assets/js/site.js"></script>
+</body>
+</html>

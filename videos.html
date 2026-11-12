@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en" data-lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Videos — Fil</title>
+<meta name="description" content="Watch Fil live: 55 videos of French chansons and classic rock filmed at real gigs in Florida, New Jersey and Paris.">
+<meta name="theme-color" content="#2a0913">
+<link rel="icon" href="favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;700;800;900&family=Instrument+Sans:wght@400;500;600;700&family=Permanent+Marker&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/site.css">
+</head>
+<body>
+<a class="skip" href="#main"><span data-l="en">Skip to content</span><span data-l="fr">Aller au contenu</span></a>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="./" aria-label="Fil, home">
+      <img src="assets/img/logo-face-white.png" alt="" width="30" height="51">
+      <span class="wordmark">FIL</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Main">
+      <a href="videos.html" aria-current="page"><span data-l="en">Videos</span><span data-l="fr">Vidéos</span></a>
+      <a href="photos.html">Photos</a>
+      <a href="./#songs"><span data-l="en">Songs</span><span data-l="fr">Chansons</span></a>
+      <a href="./#shows"><span data-l="en">Shows</span><span data-l="fr">Concerts</span></a>
+      <a href="./#about"><span data-l="en">About</span><span data-l="fr">Biographie</span></a>
+    </nav>
+    <button class="lang" type="button">EN / FR</button>
+    <a class="btn btn-spot" href="./#book"><span data-l="en">Book Fil</span><span data-l="fr">Réserver Fil</span></a>
+    <button class="menu-btn" type="button" aria-controls="nav" aria-expanded="false" data-en="Open menu" data-fr="Ouvrir le menu"><span></span><span></span><span></span></button>
+  </div>
+</header>
+
+<main id="main">
+  <section class="page-head">
+    <div class="wrap">
+      <h1><span data-l="en">Videos</span><span data-l="fr">Vidéos</span></h1>
+      <p><span data-l="en">Every song Fil filmed live — French chansons, American and British classics, and a little Italian. Filter by language or search for a song.</span><span data-l="fr">Toutes les chansons filmées en live — chansons françaises, classiques américains et britanniques, et un peu d'italien. Filtrez par langue ou cherchez une chanson.</span></p>
+    </div>
+  </section>
+  <section class="section" style="padding-top:1rem">
+    <div class="wrap">
+      <div class="toolbar">
+        <div class="chips" role="group" data-en="Filter by language" data-fr="Filtrer par langue">
+          <button class="chip" type="button" data-filter="all" aria-pressed="true"><span data-l="en">All</span><span data-l="fr">Toutes</span></button>
+          <button class="chip" type="button" data-filter="en" aria-pressed="false">In English</button>
+          <button class="chip" type="button" data-filter="fr" aria-pressed="false">En français</button>
+          <button class="chip" type="button" data-filter="it" aria-pressed="false">Italiano</button>
+        </div>
+        <label class="sr-only" for="vsearch"><span data-l="en">Search a song or an artist</span><span data-l="fr">Chercher une chanson ou un artiste</span></label>
+        <input class="vsearch" id="vsearch" type="search" data-video-search data-en="Search a song or an artist" data-fr="Chercher une chanson ou un artiste" placeholder="Search a song or an artist">
+      </div>
+      <p class="vcount" data-video-count aria-live="polite"></p>
+      <div class="vgrid" data-videos="all"></div>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <div class="foot-brand"><img src="assets/img/logo-face-white.png" alt="" width="40" height="68"><span class="wordmark">FIL</span></div>
+    <div class="foot-links">
+      <a href="mailto:fil@filrock.com">fil@filrock.com</a>
+      <a href="https://www.instagram.com/fil_rock/" target="_blank" rel="noopener">Instagram</a>
+      <a href="https://www.facebook.com/profile.php?id=61576345754601" target="_blank" rel="noopener">Facebook</a>
+      <a href="https://www.youtube.com/channel/UCHNv5Xm1f1UCHBAdo7U0K4A" target="_blank" rel="noopener">YouTube</a>
+      <a href="videos.html"><span data-l="en">Videos</span><span data-l="fr">Vidéos</span></a>
+      <a href="photos.html">Photos</a>
+    </div>
+    <p class="foot-small">© <span data-year>2026</span> Fil. <span data-l="en">Photo credits appear with each photo.</span><span data-l="fr">Les crédits photo sont indiqués avec chaque photo.</span></p>
+  </div>
+</footer>
+
+<dialog id="player" aria-label="Video">
+  <button class="dlg-close" type="button" aria-label="Close">×</button>
+  <div class="dlg"><div class="dlg-media"></div><div class="dlg-cap"></div></div>
+</dialog>
+
+<script src="data/videos.js"></script>
+<script src="data/shows.js"></script>
+<script src="assets/js/site.js"></script>
+</body>
+</html>
