@@ -2,6 +2,111 @@
 window.FILROCK_PHOTOS = {
  "stage": [
   {
+   "f": "indian-spring-grille-2026-b95a6f.jpg",
+   "w": 1200,
+   "h": 1600,
+   "cap": "The Grille at Indian Spring Country Club — Boynton Beach, FL",
+   "credit": ""
+  },
+  {
+   "f": "club-richelieu-2026-b479cd.jpg",
+   "w": 900,
+   "h": 1600,
+   "cap": "Club Richelieu — Pembroke Park, FL",
+   "credit": ""
+  },
+  {
+   "f": "fil-live-2025-a-8f5dc8.jpg",
+   "w": 906,
+   "h": 1600,
+   "cap": "Fil",
+   "credit": ""
+  },
+  {
+   "f": "fil-live-2025-b-a8b4dd.jpg",
+   "w": 774,
+   "h": 1600,
+   "cap": "Fil",
+   "credit": ""
+  },
+  {
+   "f": "fil-live-2025-c-962197.jpg",
+   "w": 899,
+   "h": 1600,
+   "cap": "Fil",
+   "credit": ""
+  },
+  {
+   "f": "fil-live-2024-e6af18.jpg",
+   "w": 768,
+   "h": 1024,
+   "cap": "Fil",
+   "credit": ""
+  },
+  {
+   "f": "mickeys-downtown-5bae6f.jpg",
+   "w": 1600,
+   "h": 742,
+   "cap": "Live at Mickey's Downtown",
+   "credit": ""
+  },
+  {
+   "f": "cantal-2023-908583.jpg",
+   "w": 768,
+   "h": 1024,
+   "cap": "Cantal, France",
+   "credit": ""
+  },
+  {
+   "f": "fil-chloe-eric-1-f817dd.jpg",
+   "w": 1600,
+   "h": 969,
+   "cap": "Fil with Chloé & Éric",
+   "credit": ""
+  },
+  {
+   "f": "fil-chloe-eric-2-1d7fc8.jpg",
+   "w": 1413,
+   "h": 1600,
+   "cap": "Fil with Chloé & Éric",
+   "credit": ""
+  },
+  {
+   "f": "backyard-party-2023-a-08191b.jpg",
+   "w": 1600,
+   "h": 1068,
+   "cap": "Fil",
+   "credit": ""
+  },
+  {
+   "f": "backyard-party-2023-b-b66839.jpg",
+   "w": 1600,
+   "h": 1068,
+   "cap": "Fil & friends — backyard party",
+   "credit": ""
+  },
+  {
+   "f": "fil-live-singing-ad8f4d.jpg",
+   "w": 886,
+   "h": 1600,
+   "cap": "Fil",
+   "credit": ""
+  },
+  {
+   "f": "fil-live-2022-80619d.jpg",
+   "w": 699,
+   "h": 893,
+   "cap": "Fil",
+   "credit": ""
+  },
+  {
+   "f": "fil-2022-38173c.jpg",
+   "w": 768,
+   "h": 1024,
+   "cap": "Fil",
+   "credit": ""
+  },
+  {
    "f": "phil4-97594b.jpg",
    "w": 1023,
    "h": 681,
@@ -604,6 +709,41 @@ window.FILROCK_PHOTOS = {
   }
  ],
  "posters": [
+  {
+   "f": "kellys-nov22-jan24-poster-b1c541.jpg",
+   "w": 1080,
+   "h": 1350,
+   "cap": "Live at Kelly's Pub — Nov 22, 2026 & Jan 24, 2027",
+   "credit": ""
+  },
+  {
+   "f": "kellys-mar22-2026-poster-f15205.jpg",
+   "w": 1131,
+   "h": 1600,
+   "cap": "Live at Kelly's Pub — March 22, 2026",
+   "credit": ""
+  },
+  {
+   "f": "chez-marie-aug21-2025-poster-27fae3.jpg",
+   "w": 1049,
+   "h": 1600,
+   "cap": "Chez Marie French Bistro — August 21, 2025",
+   "credit": ""
+  },
+  {
+   "f": "kellys-feb18-2025-poster-5dfbd6.jpg",
+   "w": 1131,
+   "h": 1600,
+   "cap": "Live at Kelly's Pub — February 18, 2025",
+   "credit": ""
+  },
+  {
+   "f": "umbertos-christmas-2022-poster-209e76.jpg",
+   "w": 1131,
+   "h": 1600,
+   "cap": "Christmas-Hanukkah Spectacular — Umberto's, Pompano Beach",
+   "credit": ""
+  },
   {
    "f": "filrock-nyeve-poster-3-c93386.jpg",
    "w": 1131,
