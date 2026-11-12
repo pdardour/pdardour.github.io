@@ -19,21 +19,21 @@ window.FILROCK_PHOTOS = {
    "f": "fil-live-2025-a-8f5dc8.jpg",
    "w": 906,
    "h": 1600,
-   "cap": "Fil",
+   "cap": "Chez Vincent Wine Bar — Lauderdale-by-the-Sea, FL",
    "credit": ""
   },
   {
    "f": "fil-live-2025-b-a8b4dd.jpg",
    "w": 774,
    "h": 1600,
-   "cap": "Fil",
+   "cap": "Chez Vincent Wine Bar — Lauderdale-by-the-Sea, FL",
    "credit": ""
   },
   {
    "f": "fil-live-2025-c-962197.jpg",
    "w": 899,
    "h": 1600,
-   "cap": "Fil",
+   "cap": "Chez Vincent Wine Bar — Lauderdale-by-the-Sea, FL",
    "credit": ""
   },
   {

@@ -384,7 +384,7 @@ window.FILROCK_VIDEOS = [
   "dur": 72,
   "src": "assets/video/kelly-le-dernier-metro.mp4",
   "poster": "assets/posters/kelly-le-dernier-metro.jpg",
-  "guest": "",
+  "guest": "Thierry Khalfa",
   "shape": "h",
   "quality": "720p",
   "youtube": "",
