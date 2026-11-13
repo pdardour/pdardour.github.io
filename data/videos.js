@@ -18,6 +18,23 @@ window.FILROCK_VIDEOS = [
   "hidden": false
  },
  {
+  "id": "fil_indian-spring-forever-young",
+  "title": "Forever Young",
+  "artist": "Rod Stewart",
+  "lang": "en",
+  "venue": "Indian Spring Country Club",
+  "city": "Boynton Beach, FL",
+  "dur": 121,
+  "src": "assets/video/forever-young-indian-spring.mp4",
+  "poster": "assets/posters/forever-young-indian-spring.jpg",
+  "guest": "",
+  "shape": "v",
+  "quality": "720p",
+  "youtube": "",
+  "featured": false,
+  "hidden": false
+ },
+ {
   "id": "fil_france-moon-over-bourbon-street",
   "title": "Moon over Bourbon Street",
   "artist": "Sting",
@@ -30,6 +47,23 @@ window.FILROCK_VIDEOS = [
   "guest": "Christian Martinez (trumpet) & Christophe Gilbert (guitar)",
   "shape": "h",
   "quality": "720p",
+  "youtube": "",
+  "featured": false,
+  "hidden": false
+ },
+ {
+  "id": "fil_kelly-les-crocodiles",
+  "title": "Les Crocodiles",
+  "artist": "",
+  "lang": "fr",
+  "venue": "Kelly Brothers Irish Pub",
+  "city": "Fort Lauderdale, FL",
+  "dur": 173,
+  "src": "assets/video/kelly-les-crocodiles.mp4",
+  "poster": "assets/posters/kelly-les-crocodiles.jpg",
+  "guest": "Éric (bass)",
+  "shape": "h",
+  "quality": "540p",
   "youtube": "",
   "featured": false,
   "hidden": false
@@ -171,6 +205,40 @@ window.FILROCK_VIDEOS = [
   "hidden": false
  },
  {
+  "id": "c780d7_6ef3e5821319455c86acf386a39e890d",
+  "title": "Nobody Knows You When You're Down and Out",
+  "artist": "Eric Clapton",
+  "lang": "en",
+  "venue": "Chez Vincent Wine Bar",
+  "city": "Lauderdale-by-the-Sea, FL",
+  "dur": 108,
+  "src": "assets/video/nobody-knows-you-chez-vincent.mp4",
+  "poster": "assets/posters/6ef3e58213.jpg",
+  "guest": "",
+  "shape": "v",
+  "quality": "720p",
+  "youtube": "QDC1o2HQgNw",
+  "featured": false,
+  "hidden": false
+ },
+ {
+  "id": "c780d7_53efbc6766ff48e3a3734decebf041c5",
+  "title": "Shallow",
+  "artist": "Lady Gaga",
+  "lang": "en",
+  "venue": "Chez Vincent Wine Bar",
+  "city": "Lauderdale-by-the-Sea, FL",
+  "dur": 179,
+  "src": "assets/video/shallow-chez-vincent.mp4",
+  "poster": "assets/posters/53efbc6766.jpg",
+  "guest": "",
+  "shape": "v",
+  "quality": "360p",
+  "youtube": "",
+  "featured": false,
+  "hidden": false
+ },
+ {
   "id": "c780d7_8c40d618f99b43469a73e5504b0fde74",
   "title": "Bella Ciao",
   "artist": "Traditional",
@@ -185,7 +253,7 @@ window.FILROCK_VIDEOS = [
   "quality": "720p",
   "youtube": "tc13P41SK6k",
   "featured": false,
-  "hidden": true
+  "hidden": false
  },
  {
   "id": "c780d7_8ff3425684f743bf9a00345219bf5e2a",
@@ -542,7 +610,7 @@ window.FILROCK_VIDEOS = [
   "quality": "720p",
   "youtube": "",
   "featured": true,
-  "hidden": true
+  "hidden": false
  },
  {
   "id": "571c43_ca935aba26ba480787572b3f54c3cbea",
@@ -576,7 +644,7 @@ window.FILROCK_VIDEOS = [
   "quality": "480p",
   "youtube": "",
   "featured": false,
-  "hidden": true
+  "hidden": false
  },
  {
   "id": "c780d7_f4be8e4a15d04939ae179653b28ad416",
@@ -627,7 +695,7 @@ window.FILROCK_VIDEOS = [
   "quality": "720p",
   "youtube": "",
   "featured": false,
-  "hidden": true
+  "hidden": false
  },
  {
   "id": "c780d7_3457dcf493ad4b9aae6d5254f6bedf9e",
@@ -644,6 +712,6 @@ window.FILROCK_VIDEOS = [
   "quality": "720p",
   "youtube": "",
   "featured": true,
-  "hidden": true
+  "hidden": false
  }
 ];
