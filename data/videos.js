@@ -1,6 +1,23 @@
 /* Fil's video list. To switch a video to YouTube, paste its YouTube ID in "youtube". */
 window.FILROCK_VIDEOS = [
  {
+  "id": "fil_france-moon-over-bourbon-street",
+  "title": "Moon over Bourbon Street",
+  "artist": "Sting",
+  "lang": "en",
+  "venue": "",
+  "city": "La Chapelle-sur-Erdre, France",
+  "dur": 213,
+  "src": "assets/video/moon-over-bourbon-street.mp4",
+  "poster": "assets/posters/moon-over-bourbon-street.jpg",
+  "guest": "",
+  "shape": "h",
+  "quality": "720p",
+  "youtube": "",
+  "featured": false,
+  "hidden": false
+ },
+ {
   "id": "fil_kelly-into-the-mystic",
   "title": "Into the Mystic",
   "artist": "Van Morrison",
