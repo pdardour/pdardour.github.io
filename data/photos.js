@@ -47,7 +47,7 @@ window.FILROCK_PHOTOS = {
    "f": "mickeys-downtown-5bae6f.jpg",
    "w": 1600,
    "h": 742,
-   "cap": "Live at Mickey's Downtown",
+   "cap": "Live at Mickey's Downtown — Lauderdale-by-the-Sea, FL",
    "credit": ""
   },
   {
@@ -451,6 +451,13 @@ window.FILROCK_PHOTOS = {
   }
  ],
  "friends": [
+  {
+   "f": "fil-and-michael-guitar-2003.jpg",
+   "w": 359,
+   "h": 480,
+   "cap": "Fil and his son Michael",
+   "credit": ""
+  },
   {
    "f": "26309715563-c5fb3d68b9-o-40f605.jpg",
    "w": 239,
