@@ -81,7 +81,8 @@
     var v = byId(id); if (!v || !player) return;
     var media = player.querySelector(".dlg-media"), cap = player.querySelector(".dlg-cap");
     media.className = "dlg-media " + v.shape;
-    if (v.youtube) {
+    // Our own fast copy plays first; YouTube only when we have no copy on the site.
+    if (v.youtube && !/^assets\//.test(v.src)) {
       media.innerHTML = '<iframe src="https://www.youtube-nocookie.com/embed/' + encodeURIComponent(v.youtube) + '?autoplay=1&rel=0" title="' + esc(v.title) + '" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>';
     } else {
       media.innerHTML = '<video controls autoplay playsinline preload="metadata" poster="' + esc(v.poster) + '" src="' + esc(v.src) + '"></video>';
