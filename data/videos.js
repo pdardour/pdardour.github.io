@@ -503,7 +503,7 @@ window.FILROCK_VIDEOS = [
   "dur": 49,
   "src": "assets/video/kelly-lola.mp4",
   "poster": "assets/posters/kelly-lola.jpg",
-  "guest": "",
+  "guest": "Chloé",
   "shape": "h",
   "quality": "720p",
   "youtube": "",
