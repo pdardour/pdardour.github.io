@@ -26,3 +26,6 @@ Until a video has a YouTube ID, it plays from the copy stored on the old Wix sit
 
 **Get booking requests straight to your inbox** — put a free Web3Forms access key in `FILROCK_FORM_KEY` in `data/shows.js`.
 Without a key, the form opens the visitor's email app, addressed to fil@filrock.com.
+
+## After each change
+Bump the `?v=` number on the CSS, JS and data file links in every .html page (for example `?v=20261113c` → `?v=20261114a`), so visitors get the new files right away instead of an old copy from their browser cache.
