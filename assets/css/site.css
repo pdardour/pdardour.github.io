@@ -204,7 +204,7 @@ html[data-lang="fr"] [data-l="en"]{display:none!important}
 
 /* ---------- friends ---------- */
 .friends-note{max-width:62ch;color:var(--muted);margin:-.5rem 0 1.5rem}
-.friends{display:grid;grid-template-columns:repeat(6,1fr);gap:1rem .75rem}
+.friends{display:grid;grid-template-columns:repeat(6,1fr);gap:1rem .75rem;align-items:start}
 .friends .pitem{margin:0}
 .friends .pitem img{aspect-ratio:4/5;object-fit:cover;object-position:50% 30%;width:100%;height:auto}
 .friends .pitem span{color:var(--text);font-size:.9rem;line-height:1.3}
