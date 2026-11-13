@@ -189,7 +189,7 @@
           <li><strong><span data-l="en">Boise, Idaho — 1984</span><span data-l="fr">Boise, Idaho — 1984</span></strong><span><span data-l="en">Moves to the United States and starts playing local bars.</span><span data-l="fr">S'installe aux États-Unis et commence à jouer dans les bars du coin.</span></span></li>
           <li><strong>San Francisco</strong><span><span data-l="en">Learns the American standards that get you booked in local venues.</span><span data-l="fr">Apprend les standards américains qui ouvrent les portes des salles locales.</span></span></li>
           <li><strong><span data-l="en">New York & New Jersey</span><span data-l="fr">New York et New Jersey</span></strong><span><span data-l="en">Plays as a duo — two guitars, two voices — in bars and festivals, and plays the Loft Sessions in Hoboken.</span><span data-l="fr">Joue en duo — deux guitares, deux voix — dans les bars et les festivals, et joue aux Loft Sessions de Hoboken.</span></span></li>
-          <li><strong><span data-l="en">South Florida</span><span data-l="fr">Floride du Sud</span></strong><span><span data-l="en">Chez Vincent Wine Bar, Umberto's in Pompano Beach, Chez Marie French Bistro in Boca Raton, Indian Spring Country Club in Boynton Beach, Kelly Brothers Irish Pub in Fort Lauderdale.</span><span data-l="fr">Chez Vincent Wine Bar, Umberto's à Pompano Beach, Chez Marie French Bistro à Boca Raton, Indian Spring Country Club à Boynton Beach, Kelly Brothers Irish Pub à Fort Lauderdale.</span></span></li>
+          <li class="now"><strong><span data-l="en">South Florida</span><span data-l="fr">Floride du Sud</span></strong><span><span data-l="en">Chez Vincent Wine Bar, Umberto's in Pompano Beach, Chez Marie French Bistro in Boca Raton, Indian Spring Country Club in Boynton Beach, Kelly Brothers Irish Pub in Fort Lauderdale.</span><span data-l="fr">Chez Vincent Wine Bar, Umberto's à Pompano Beach, Chez Marie French Bistro à Boca Raton, Indian Spring Country Club à Boynton Beach, Kelly Brothers Irish Pub à Fort Lauderdale.</span></span></li>
         </ol>
       </div>
     </div>
@@ -212,6 +212,18 @@
       </div>
     </div>
   </section>
+
+  <!-- FRIENDS -->
+  <section class="section section-alt" id="friends" aria-labelledby="friends-title">
+    <div class="wrap">
+      <div class="section-head">
+        <h2 class="h2" id="friends-title"><span data-l="en">Friends</span><span data-l="fr">Les amis</span></h2>
+        <a class="more" href="photos.html"><span data-l="en">See all photos</span><span data-l="fr">Voir toutes les photos</span></a>
+      </div>
+      <p class="friends-note"><span data-l="en">Fans, friends and family, and some famous artists Fil has met along the way. Tap a photo to see it larger.</span><span data-l="fr">Fans, amis et famille, et quelques artistes célèbres rencontrés en chemin. Touchez une photo pour l'agrandir.</span></p>
+      <div class="friends" data-photo-pick="friends" data-files="img-0976-e116f7.jpg,26309715563-c5fb3d68b9-o-40f605.jpg,2014-03-20-15-02-42-hdr-c0dce1.jpg,2014-05-06-21-50-27-06c219.jpg,img-5011-af9298.jpg,photo-nov-27-10-55-16-pm-747746.jpg,a6d4e931-f1a1-47d4-8044-40ce2c3fade4-e8ab07.jpg,img-1014-edited-6ef716.jpg,picture-085-d0bc2f.jpg,picture-009-0a700b.jpg,dscf5013-2b86a0.jpg,img-4348-17086c.jpg"></div>
+    </div>
+  </section>
 </main>
 
 <footer class="foot">
@@ -229,12 +241,20 @@
   </div>
 </footer>
 
+<dialog id="viewer" aria-label="Photo">
+  <button class="dlg-close" type="button" aria-label="Close">×</button>
+  <button class="dlg-nav dlg-prev" type="button" aria-label="Previous photo">‹</button>
+  <button class="dlg-nav dlg-next" type="button" aria-label="Next photo">›</button>
+  <div class="dlg"><div class="dlg-media"></div><div class="dlg-cap"></div></div>
+</dialog>
+
 <dialog id="player" aria-label="Video">
   <button class="dlg-close" type="button" aria-label="Close">×</button>
   <div class="dlg"><div class="dlg-media"></div><div class="dlg-cap"></div></div>
 </dialog>
 
 <script src="data/videos.js"></script>
+<script src="data/photos.js"></script>
 <script src="data/shows.js"></script>
 <script src="assets/js/site.js"></script>
 </body>

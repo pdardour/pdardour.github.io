@@ -187,6 +187,16 @@
       if (e.key === "ArrowRight") viewer.querySelector(".dlg-next").click();
     });
   }
+  // Home page: a picked set of photos (e.g. Friends), in the order given in data-files.
+  document.querySelectorAll("[data-photo-pick]").forEach(function (box) {
+    var all = PHOTOS[box.getAttribute("data-photo-pick")] || [];
+    var want = (box.getAttribute("data-files") || "").split(",").filter(Boolean);
+    var list = want.length ? want.map(function (f) { return all.filter(function (p) { return p.f === f; })[0]; }).filter(Boolean) : all;
+    box.innerHTML = list.map(function (p, i) {
+      return '<button class="pitem" type="button" data-i="' + i + '"><img loading="lazy" src="assets/img/thumb/' + esc(p.f) + '" alt="' + esc(p.cap || "Fil") + '" width="' + Math.min(640, p.w) + '" height="' + Math.round(Math.min(640, p.w) * p.h / p.w) + '">' + (p.cap ? "<span>" + esc(p.cap) + "</span>" : "") + "</button>";
+    }).join("");
+    box.addEventListener("click", function (e) { var b = e.target.closest(".pitem"); if (b && viewer) openPhoto(list, +b.getAttribute("data-i")); });
+  });
   var pgrid = document.querySelector("[data-photos]");
   if (pgrid) {
     var group = pgrid.getAttribute("data-photos");
