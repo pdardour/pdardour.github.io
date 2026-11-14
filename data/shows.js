@@ -8,7 +8,7 @@ window.FILROCK_SHOWS = [
     venue: "Kelly Brothers Irish Pub",
     room: { en: "Upstairs lounge — open to everyone", fr: "Salon à l'étage — ouvert à tous" },
     address: "3045 N Federal Hwy, Fort Lauderdale, FL",
-    guests: { en: "Special guests TT, Éric & Chloé", fr: "Invités spéciaux : TT, Éric et Chloé" },
+    guests: { en: "Special guest TT", fr: "Invité spécial : TT" },
     link: "https://www.facebook.com/events/1145548815019254/"
   },
   {
@@ -28,7 +28,7 @@ window.FILROCK_SHOWS = [
     venue: "Kelly Brothers Irish Pub",
     room: { en: "Upstairs lounge — open to everyone", fr: "Salon à l'étage — ouvert à tous" },
     address: "3045 N Federal Hwy, Fort Lauderdale, FL",
-    guests: { en: "Special guests TT, Éric & Chloé", fr: "Invités spéciaux : TT, Éric et Chloé" },
+    guests: { en: "Special guest TT", fr: "Invité spécial : TT" },
     link: "https://www.facebook.com/events/2729346464247498/"
   },
   {
