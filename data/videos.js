@@ -455,7 +455,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "h",
   "quality": "720p",
-  "youtube": "",
+  "youtube": "w3nrWH2Xh6Q",
   "featured": false,
   "hidden": false
  },
@@ -472,7 +472,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "h",
   "quality": "720p",
-  "youtube": "",
+  "youtube": "ETf4a9iA0NE",
   "featured": false,
   "hidden": false
  },
@@ -506,7 +506,7 @@ window.FILROCK_VIDEOS = [
   "guest": "Julio Fernandez (Spyro Gyra)",
   "shape": "h",
   "quality": "720p",
-  "youtube": "",
+  "youtube": "odYl2fyCtH8",
   "featured": false,
   "hidden": false
  },
@@ -523,7 +523,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "h",
   "quality": "720p",
-  "youtube": "",
+  "youtube": "tXAi4o7c3n4",
   "featured": false,
   "hidden": false
  },
@@ -540,7 +540,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "h",
   "quality": "720p",
-  "youtube": "",
+  "youtube": "UBM62tliD3s",
   "featured": false,
   "hidden": false
  },
@@ -557,7 +557,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "h",
   "quality": "720p",
-  "youtube": "",
+  "youtube": "s6QdXKGeEKM",
   "featured": false,
   "hidden": false
  },
@@ -574,7 +574,7 @@ window.FILROCK_VIDEOS = [
   "guest": "Julio Fernandez (Spyro Gyra)",
   "shape": "h",
   "quality": "720p",
-  "youtube": "",
+  "youtube": "rxcjIZMzO5c",
   "featured": false,
   "hidden": false
  },
@@ -591,7 +591,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "h",
   "quality": "360p",
-  "youtube": "",
+  "youtube": "M1vAkxn-NFg",
   "featured": false,
   "hidden": false
  },
@@ -608,7 +608,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "v",
   "quality": "720p",
-  "youtube": "",
+  "youtube": "f7Czd28lU_8",
   "featured": true,
   "hidden": false
  },
@@ -625,7 +625,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "v",
   "quality": "480p",
-  "youtube": "",
+  "youtube": "hf-RGByFW7U",
   "featured": true,
   "hidden": false
  },
