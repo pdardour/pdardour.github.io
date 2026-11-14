@@ -717,7 +717,7 @@ window.FILROCK_PHOTOS = {
  ],
  "posters": [
   {
-   "f": "kellys-nov22-jan24-poster-b1c541.jpg",
+   "f": "kellys-nov22-jan24-poster-v2-18c8df.jpg",
    "w": 1080,
    "h": 1350,
    "cap": "Live at Kelly's Pub — Nov 22, 2026 & Jan 24, 2027",
