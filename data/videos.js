@@ -64,7 +64,7 @@ window.FILROCK_VIDEOS = [
   "guest": "Éric (bass)",
   "shape": "h",
   "quality": "540p",
-  "youtube": "",
+  "youtube": "mDc7pealMxw",
   "featured": false,
   "hidden": false
  },
@@ -81,7 +81,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "h",
   "quality": "360p",
-  "youtube": "",
+  "youtube": "pldatct4o9Y",
   "featured": true,
   "hidden": false
  },
@@ -98,7 +98,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "h",
   "quality": "360p",
-  "youtube": "",
+  "youtube": "kqgCf6JMrJo",
   "featured": false,
   "hidden": false
  },
@@ -115,7 +115,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "h",
   "quality": "360p",
-  "youtube": "",
+  "youtube": "kVfqgBU8YUc",
   "featured": false,
   "hidden": false
  },
@@ -132,7 +132,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "h",
   "quality": "360p",
-  "youtube": "",
+  "youtube": "x9c42oXDqSw",
   "featured": false,
   "hidden": false
  },
@@ -642,7 +642,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "v",
   "quality": "480p",
-  "youtube": "",
+  "youtube": "GC9tv-NdLes",
   "featured": false,
   "hidden": false
  },
@@ -659,7 +659,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "v",
   "quality": "720p",
-  "youtube": "",
+  "youtube": "sywqHYuizy4",
   "featured": false,
   "hidden": false
  },
@@ -676,7 +676,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "v",
   "quality": "720p",
-  "youtube": "",
+  "youtube": "FPdSCxZk2V8",
   "featured": false,
   "hidden": false
  },
@@ -693,7 +693,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "v",
   "quality": "720p",
-  "youtube": "",
+  "youtube": "ErmSVbEt3ms",
   "featured": false,
   "hidden": false
  },
@@ -710,7 +710,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "v",
   "quality": "720p",
-  "youtube": "",
+  "youtube": "UuRfgFg5Cb0",
   "featured": true,
   "hidden": false
  }
