@@ -216,7 +216,7 @@ window.FILROCK_PHOTOS = {
    "f": "img-4348-17086c.jpg",
    "w": 1600,
    "h": 1200,
-   "cap": "LBTS - Les Gars d'Emma rehearsals",
+   "cap": "LBTS - Emma & Pascal rehearsals",
    "credit": ""
   },
   {
@@ -519,7 +519,7 @@ window.FILROCK_PHOTOS = {
    "f": "img-4348-17086c.jpg",
    "w": 1600,
    "h": 1200,
-   "cap": "Les Gars d'Emma",
+   "cap": "Emma & Pascal",
    "credit": ""
   },
   {
