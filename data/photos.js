@@ -50,13 +50,7 @@ window.FILROCK_PHOTOS = {
    "cap": "Live at Mickey's Downtown — Lauderdale-by-the-Sea, FL",
    "credit": ""
   },
-  {
-   "f": "cantal-2023-908583.jpg",
-   "w": 768,
-   "h": 1024,
-   "cap": "Cantal, France",
-   "credit": ""
-  },
+  
   {
    "f": "fil-chloe-eric-1-f817dd.jpg",
    "w": 1600,
