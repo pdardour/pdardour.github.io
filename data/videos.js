@@ -13,7 +13,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "v",
   "quality": "720p",
-  "youtube": "",
+  "youtube": "768vnJ44kIA",
   "featured": false,
   "hidden": false
  },
@@ -47,7 +47,7 @@ window.FILROCK_VIDEOS = [
   "guest": "Christian Martinez (trumpet) & Christophe Gilbert (guitar)",
   "shape": "h",
   "quality": "720p",
-  "youtube": "",
+  "youtube": "QWm_FSJ6FY0",
   "featured": false,
   "hidden": false
  },
@@ -149,7 +149,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "h",
   "quality": "720p",
-  "youtube": "",
+  "youtube": "knYac3Q3xb8",
   "featured": true,
   "hidden": false
  },
@@ -166,7 +166,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "h",
   "quality": "720p",
-  "youtube": "",
+  "youtube": "oVvBNLuTPFQ",
   "featured": false,
   "hidden": false
  },
@@ -183,7 +183,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "h",
   "quality": "720p",
-  "youtube": "",
+  "youtube": "mciZMVVfngo",
   "featured": false,
   "hidden": false
  },
@@ -200,7 +200,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "h",
   "quality": "720p",
-  "youtube": "",
+  "youtube": "3AzUch4IpBo",
   "featured": false,
   "hidden": false
  },
@@ -489,7 +489,7 @@ window.FILROCK_VIDEOS = [
   "guest": "",
   "shape": "h",
   "quality": "720p",
-  "youtube": "",
+  "youtube": "sjfzvavE1LY",
   "featured": false,
   "hidden": false
  },
